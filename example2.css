@@ -116,7 +116,8 @@ p{
 }
 #section0 img,
 #section1 img{
-	margin: 20px 0 0 0;
+	margin: 120px 0 0 0;
+	opacity:.4;
 }	
 #section2 img{
 	margin: 20px 0 0 52px;	
